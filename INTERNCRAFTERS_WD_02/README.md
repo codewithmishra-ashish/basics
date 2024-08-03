@@ -1,4 +1,4 @@
-# INTERCRAFTERS_WD_01 : Stopwatch Web Application
+# INTERCRAFTERS_WD_02 : Stopwatch Web Application
 
 This directory deals with the task 2 of the internship.
 Here, you will find output code of stopwatch web application.
