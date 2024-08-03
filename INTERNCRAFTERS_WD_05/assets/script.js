@@ -1,4 +1,4 @@
-let currentCity = "Panvel";
+let currentCity = "Bhopal";
 let units = "metric";
 
 let city = document.querySelector(".weather__city");
