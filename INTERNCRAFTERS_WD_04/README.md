@@ -1,6 +1,6 @@
 # INTERCRAFTERS_WD_04 : Personal Portfolio Website
 
-This directory deals with the task 2 of the internship.
+This directory deals with the task 4 of the internship.
 Here, you will find output code of personal portfolio website.
 
 Tools used:
