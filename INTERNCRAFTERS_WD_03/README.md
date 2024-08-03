@@ -1,6 +1,6 @@
 # INTERCRAFTERS_WD_03 : Tic-Tac-Toe Web Application
 
-This directory deals with the task 2 of the internship.
+This directory deals with the task 3 of the internship.
 Here, you will find output code of Tic-Tac-Toe web application.
 
 Tools used:
