@@ -1,7 +1,9 @@
-# Intern Crafters
+# Basic Developments
 
-1. Task 01 : Responsive Landing Page
-2. Task 02 : Stopwatch Web Application
-3. Task 03 : Tic-Tac-Toe Web Application
-4. Task 04 : Personal Portfolio Website
-5. Task 05 : Weather App
+Web Development:-
+
+1. Responsive Landing Page
+2. Stopwatch Web Application
+3. Tic-Tac-Toe Web Application
+4. Personal Portfolio Website
+5. Weather App
